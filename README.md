@@ -41,7 +41,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=khybin&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=khybin&show_icons=true" 
     alt="khybin's github stats"
   />
 </div>
