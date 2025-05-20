@@ -32,7 +32,7 @@
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=khybin&row=1&column=6&theme=tokyonight" 
+    src="https://github-profile-trophy.vercel.app/?username=khybin&row=1&column=6&theme=dark" 
     alt="GitHub Trophies" 
   />
 </div>
