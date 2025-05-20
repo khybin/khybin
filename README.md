@@ -31,16 +31,10 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=khybin&row=1&column=6&theme=darkhub" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=khybin&row=1&column=6&theme=default" 
-      alt="GitHub Trophies" 
-    />
-  </picture>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=khybin&row=1&column=6&theme=tokyonight" 
+    alt="GitHub Trophies" 
+  />
 </div>
 
 <br><br>
